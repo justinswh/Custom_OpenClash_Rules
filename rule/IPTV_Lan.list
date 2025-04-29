@@ -1,0 +1,9 @@
+# NAME: IPTV_Lan
+# AUTHOR: Justinswh
+# REPO: https://github.com/justinswh/Custom_OpenClash_Rules
+# 本地部署的IPTV，可分流至台湾节点
+
+# ofii, 4gtv, litv
+DOMAIN-KEYWORD,ofiii
+DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,litv
